@@ -1,4 +1,10 @@
 #!/bin/bash
-The school is open
+<<<<<<< HEAD
 School
+<<<<<<< HEAD
 “The school is open”
+=======
+=======
+The school is so open!
+>>>>>>> master
+>>>>>>> 5b4f172759f5bd2f0a47071750d55bb655129768
